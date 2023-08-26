@@ -1,0 +1,7 @@
+dist
+node_modules
+
+*.svg
+*.md
+
+src/typings/components.d.ts
